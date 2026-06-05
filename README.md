@@ -1,3 +1,4 @@
+<img width="1477" height="1065" alt="Terraform aws infrastructure automation" src="https://github.com/user-attachments/assets/c4ced06f-463b-456c-ba23-8e283df35699" />
 # AWS Infrastructure Automation using Terraform
 
 ## Project Overview
